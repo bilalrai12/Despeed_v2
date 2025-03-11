@@ -20,7 +20,7 @@ This bot automates speedtest deSpeed
 
    ```sh
    git clone https://github.com/bilalrai12/Despeed_v2.git
-   cd despeed_v2
+   cd Despeed_v2
    ```
 
 2. Instal Packages:
