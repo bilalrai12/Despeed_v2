@@ -19,8 +19,8 @@ This bot automates speedtest deSpeed
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/despeed-bot.git
-   cd despeed-bot
+   git clone https://github.com/bilalrai12/Despeed_v2.git
+   cd despeed_v2
    ```
 
 2. Instal Packages:
